@@ -1,6 +1,15 @@
+# Muhamad Harshal Azmi - I.2510511 
+- credit : [aliimndev](https://github.com/aliimndev)
+
 # JavaPersistence - Employee Management Application
 
 Aplikasi desktop CRUD (Create, Read, Update, Delete) untuk manajemen data karyawan menggunakan **Java 21 LTS**, **Hibernate ORM**, dan **MySQL Database**.
+
+## Hasil yang diharapkan
+![Output](Assets/Hasil.png)
+
+
+
 
 ## 🔧 Prerequisites
 
