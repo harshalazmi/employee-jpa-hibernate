@@ -5,7 +5,7 @@
 
 Aplikasi desktop CRUD (Create, Read, Update, Delete) untuk manajemen data karyawan menggunakan **Java 21 LTS**, **Hibernate ORM**, dan **MySQL Database**.
 
-## Hasil yang diharapkan
+## Hasil 
 ![Output](assets/hasil.png)
 
 
